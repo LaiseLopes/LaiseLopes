@@ -28,5 +28,4 @@ I'm a Process Analyst from Brazil, but with a dream of working with Business Int
 <code><img height="20" src="https://github.com/LaiseLopes/LaiseLopes/blob/master/microsoft_excel_logo_250_250_0.png"></code>
 <code><img height="20" src="https://github.com/LaiseLopes/LaiseLopes/blob/master/social-default-image.png"></code>
 <code><img height="20" src="https://github.com/LaiseLopes/LaiseLopes/blob/master/tableau.png"></code>
-<code><img height="20" src="https://github.com/LaiseLopes/LaiseLopes/blob/master/r.jfif"></code>
-<code><img height="20" src="https://github.com/LaiseLopes/LaiseLopes/blob/master/python.png"></code>
+
