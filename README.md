@@ -16,7 +16,8 @@
 
 Hi, I'm Laise, but you can call me **La**. 
 
-Brazilian Lover of Business Intelligence, Analytics, creation of Dashboards, KPIs, Indicators, always seeking to assist in decision making 💚, **23 years old** 👶🏻.  
+Brazilian Lover of Business Intelligence, Analytics, creation of Dashboards, KPIs, Indicators, always seeking to assist in decision making 💚, 
+**23 years old** 👶🏻.  
 
 
 ----
